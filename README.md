@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeKing12
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Ethical Hacking, Backend Development
-- 🌱 I’m currently learning Django
+- 🌱 
 - 💞️ I’m looking to collaborate on some Django projects
 - 📫 You can reach me on twitter @EyetuKingsley
 
