@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeKing12
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Ethical Hacking, Backend Development
 - 🌱 I code in HTML, CSS, Javascript, PHP, Python (and Django)
-- 💞️ I’m looking to collaborate on some Django projects
+- 💞️ I’m open for work
 - 📫 You can reach me on twitter @
 
 <!---
