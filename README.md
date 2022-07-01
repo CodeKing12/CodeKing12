@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CodeKing12
+<!-- - 👋 Hi, I’m @CodeKing12
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Ethical Hacking, Backend Development
 - 🌱 I code in HTML, CSS, Javascript, PHP, Python (and Django)
 - 💞️ I’m open for work
 - 📫 You can reach me on twitter @
-
+-->
 <!---
 CodeKing12/CodeKing12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
